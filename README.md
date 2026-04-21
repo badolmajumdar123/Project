@@ -8,4 +8,3 @@ A fullstack app using Express.js & MongoDB.
 
 📂 GitHub Repo
 
-👉 https://github.com/your-username/your-repo
