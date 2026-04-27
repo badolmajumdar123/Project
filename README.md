@@ -6,5 +6,6 @@ A fullstack app using Express.js & MongoDB.
 
 👉 https://nursery-website-front-end-upih.vercel.app/
 
-📂 GitHub Repo
 
+
+👉 https://blog-app-client-side-wjvd.vercel.app/blog
